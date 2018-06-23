@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-xenial-20180525
+FROM ubuntu:xenial-20180525
 
 LABEL maintainer="Jörg Klems"
 
